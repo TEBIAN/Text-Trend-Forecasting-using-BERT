@@ -1,0 +1,8 @@
+
+tweepy
+pandas
+transformers
+torch
+matplotlib
+ujson
+darts
